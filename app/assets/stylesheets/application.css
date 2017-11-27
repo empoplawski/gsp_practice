@@ -13,3 +13,74 @@
  *= require_tree .
  *= require_self
  */
+
+body {
+  background-color: black;
+}
+
+.owl {
+  position: absolute;
+  width: 250px;
+  height: 300px;
+}
+
+#tree1 {
+  margin-top: 500px;
+  position: absolute;
+  width: 150px;
+  height: 200px;
+
+}
+
+#tree2 {
+  margin-top: 500px;
+  margin-left: 200px;
+  position: absolute;
+  width: 150px;
+  height: 200px;
+}
+
+#tree3 {
+  margin-top: 500px;
+  margin-left: 400px;
+  position: absolute;
+  width: 150px;
+  height: 200px;
+}
+
+.e {
+  margin-top: 325px;
+  position: absolute;
+  width: 100px;
+  height: 100px;
+}
+
+.l {
+  margin-top: 325px;
+  position: absolute;
+  width: 100px;
+  height: 100px;
+}
+
+.i {
+  margin-top: 325px;
+  position: absolute;
+  width: 100px;
+  height: 100px;
+}
+.s {
+  margin-top: 325px;
+  position: absolute;
+  width: 100px;
+  height: 100px;
+}
+.ee {  
+  margin-top: 325px;
+  position: absolute;
+  width: 100px;
+  height: 100px;
+}
+
+
+
+
